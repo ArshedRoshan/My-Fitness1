@@ -1,0 +1,90 @@
+.bg{
+   background: url('images/WK1.jpg');
+        background-size: 1367px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.left{
+   
+    position: absolute;
+    left: 34px;
+    display: inline-block;
+    top: 20px;
+    
+}
+.left img{
+    width: 135px;
+}
+.mid{
+    width: 33%;
+    margin: 12px auto;
+   /* border: 2px solid yellow;
+   */
+    display: block;
+}
+.right{
+   
+    position: absolute;
+    right: 34px;
+    display: inline-block;
+    top: 20px;
+}
+
+.navig li{
+    display: inline-block;
+}
+.navig li a{
+    color: white;
+    text-decoration: none;
+}
+.navig li a:hover{
+    text-decoration: underline;
+}
+.li{
+    margin-left: 31px;
+}
+.btn{
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.text{
+    text-align: center;
+    color: grey;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.container{
+    border: 2px solid white;
+    margin: 159px 139px;
+    padding: 47px 32px;
+    width: 33%;
+    border-radius: 13px;
+    color: lightgrey;
+}
+.form input{
+    text-align: center;
+    display: block;
+    width: 171px;
+    padding: 6px;
+    margin: 3px auto;
+    margin-left: 20px;
+    margin-top: 23px;
+    border-radius: 6px;
+}
+.btn1{
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 142px;
+    margin-top: 27px;
+    width: 104px
+}
+.container button{
+        text-align: center;
+        width: 129px;
+        font-size: 16px
+}
